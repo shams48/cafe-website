@@ -251,7 +251,7 @@ export default function CafeWebsite() {
       </section>
 
       <footer className="border-t border-stone-200 px-5 py-8 text-center text-sm text-stone-500">
-        © 2026 Luna Cafe. Designed with love, coffee, and too many croissants.
+        © 2026 Luna Cafe. Website created by Shams Hajizada.
       </footer>
     </main>
   );
