@@ -21,7 +21,7 @@ A modern and responsive cafe website built with React, Vite, and Tailwind CSS.
 
 Add your Vercel link here:
 
-https://your-vercel-link.vercel.app
+https://cafe-website-4971fv2xx-shams48s-projects.vercel.app/
 
 ## Author
 
